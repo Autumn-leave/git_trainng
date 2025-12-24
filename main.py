@@ -10,7 +10,6 @@ def main():
 
     print("Add:", add(a, b))
     print("Subtract:", subtract(a, b, c))
-    print("multiple: ", multiply(a, b))
     print("Divide: ", divid(a, b))
 
 if __name__ == "__main__":
