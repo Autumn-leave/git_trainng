@@ -6,9 +6,10 @@ def main():
 
     a = 10
     b = 5
+    c = 5
 
     print("Add:", add(a, b))
-    print("Subtract:", subtract(a, b))
+    print("Subtract:", subtract(a, b, c))
     print("multiple: ", multiply(a, b))
 
 if __name__ == "__main__":
